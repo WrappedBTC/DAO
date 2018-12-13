@@ -1,11 +1,11 @@
 # DAO Members
 |   |      |         |
 |---|------|---------|
-|1|Airswap|0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea|
+|1|Airswap|`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`|
 |2| Compound|		          0x185ADb71ae202DFAbb4146272186457E4e170523|
 |3| DDEX / Hydro|		      0xf848405353889D352BD20Db95C86d75EF2E75022|
 |4| Dharma		   |         0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392|
-|5| Gnosis		    |        0x851b7f3ab81bd8df354f0d7640efcd7288553419|
+|5| Gnosis		    |        `0x851b7f3ab81bd8df354f0d7640efcd7288553419`|
 |6| MakerDAO		   |       0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e|
 |7| theocean		    |      0x02e6f32bf32948ccfc0ff30858ef6c02c9b6f507|
 |8| Prycto		       |     0x5aA0C20df887B11520E141E0cAC9F56f207bf9B0|
