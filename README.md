@@ -1,4 +1,8 @@
 # DAO Members
+|Number | Name | Address |
+--------------------------
+|1|Airswap|0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea|
+
 1) Airswap		          0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea
 2) Compound		          0x185ADb71ae202DFAbb4146272186457E4e170523
 3) DDEX / Hydro		      0xf848405353889D352BD20Db95C86d75EF2E75022
