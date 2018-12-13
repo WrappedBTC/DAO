@@ -19,4 +19,4 @@
 |16| Republic Protocol |	`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`|
 
 
-Multisig wallet: TBD
+Multisig wallet: [0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)
