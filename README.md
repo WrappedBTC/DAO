@@ -1,6 +1,6 @@
 # DAO Members
-|Number | Name | Address |
-|-------|------|--------:|
+|   |      | Address |
+|---|------|--------:|
 |1|Airswap|0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea|
 
 1) Airswap		          0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea
