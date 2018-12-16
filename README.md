@@ -3,9 +3,12 @@ Multisig wallet: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://ethersca
 
 ## WBTC important addresses
 WBTC token [`0x2260fac5e5542a773aa44fbcfedf7c193bc2c599`](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)
+
 token controller [`0xca06411bd7a7296d7dbdd0050dfc846e95febeb7
 `](https://etherscan.io/address/0xca06411bd7a7296d7dbdd0050dfc846e95febeb7)
+
 factory [`0xe5a5f138005e19a3e6d0fe68b039397eeef2322b`](https://etherscan.io/address/0xe5a5f138005e19a3e6d0fe68b039397eeef2322b)
+
 members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5)
 
 
