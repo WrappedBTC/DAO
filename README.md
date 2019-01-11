@@ -11,6 +11,19 @@ factory [`0xe5a5f138005e19a3e6d0fe68b039397eeef2322b`](https://etherscan.io/addr
 
 members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5)
 
+## Custodian
+Bitgo `0x87d604ea0419815204361bf3025d016448ffd95d`.
+
+## Merchants
+|   |      |         | Accouncement |
+|---|------|---------|-------------|
+|1| Kyber Network|`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`|[link](https://tinyurl.com/ybk98cmf) |
+|2| Republic|		          `0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`| |
+|3| Prycto|		      `0xbec897d7e4969c59993bfe9ad7b4c571a29aa381`|[link](https://twitter.com/PryctoHQ/status/1083413661203525632)|
+|4| Ethfinex		   |         `0xe1f3c653248de6894d683cb2f10de7ca2253046f`||
+|5| GOPAX		   |         `0x6707a6763c6dc64de7c4048a27b6303292f88f50`||
+
+
 
 ## DAO Members
 |   |      |         | Accouncement |
