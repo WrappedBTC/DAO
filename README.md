@@ -39,11 +39,11 @@ Bitgo [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/addres
 |9| Set Protocol		  |    [`0xf4b583293339425CF94203e186D097589Af5a611`](https://etherscan.io/address/0xf4b583293339425CF94203e186D097589Af5a611)||
 |10| Blockfolio		    |  [`0x36DEE7493Cb4fDEbbF6FD67BE4D4ec559aa61fe1`](https://etherscan.io/address/0x36DEE7493Cb4fDEbbF6FD67BE4D4ec559aa61fe1)|[link](https://twitter.com/blockfolio/status/1083460773102276608)|
 |11| OmiseGO		      |    [`0x8409DCfCBDb0A78930D87Fb6c06BD8119Bb94bF5`](https://etherscan.io/address/0x8409DCfCBDb0A78930D87Fb6c06BD8119Bb94bF5)|[link](https://twitter.com/omise_go/status/1084678383923953665)|
-|12| GOPAX		        |    `0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`||
-|13| Loopring Protocol |	`0xd8056194369F71A98b82799132F71f34084F7660`|[link](https://twitter.com/loopringorg/status/1083546925482291202)|
-|14| Kyber Network 	   | `0xFDF28Bf25779ED4cA74e958d54653260af604C20`|[link](https://tinyurl.com/ybk98cmf)|
-|15| Bitgo 		         | `0x87d604ea0419815204361bf3025d016448ffd95d`||
-|16| Republic Protocol |	`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`||
+|12| GOPAX		        |    [`0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`](https://etherscan.io/address/0x6707A6763c6Dc64DE7C4048A27b6303292F88F50)||
+|13| Loopring Protocol |	[`0xd8056194369F71A98b82799132F71f34084F7660`](https://etherscan.io/address/0xd8056194369F71A98b82799132F71f34084F7660)|[link](https://twitter.com/loopringorg/status/1083546925482291202)|
+|14| Kyber Network 	   | [`0xFDF28Bf25779ED4cA74e958d54653260af604C20`](https://etherscan.io/address/0xFDF28Bf25779ED4cA74e958d54653260af604C20)|[link](https://tinyurl.com/ybk98cmf)|
+|15| Bitgo 		         | [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/address/0x87d604ea0419815204361bf3025d016448ffd95d)||
+|16| Republic Protocol |	[`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`](https://etherscan.io/address/0xC038C8850F73C4A8453DBF7C59447B397978d7Ea)||
 
 
 
