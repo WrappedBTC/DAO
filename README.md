@@ -23,7 +23,7 @@ Bitgo [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/addres
 |4| Ethfinex		   |         [`0xe1f3c653248de6894d683cb2f10de7ca2253046f`](https://etherscan.io/address/0xe1f3c653248de6894d683cb2f10de7ca2253046f)||
 |5| GOPAX		   |         [`0x6707a6763c6dc64de7c4048a27b6303292f88f50`](https://etherscan.io/address/0x6707a6763c6dc64de7c4048a27b6303292f88f50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 |6| Airswap		   |         [`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)||
-|6| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)||
+|7| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)||
 
 
 
