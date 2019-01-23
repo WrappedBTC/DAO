@@ -12,7 +12,7 @@ factory [`0xe5a5f138005e19a3e6d0fe68b039397eeef2322b`](https://etherscan.io/addr
 members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5)
 
 ## Custodian
-Bitgo [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/address/0x87d604ea0419815204361bf3025d016448ffd95d).
+Bitgo [`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/address/0xb0f42d187145911c2ad1755831aded125619bd27).
 
 ## Merchants
 |   |      |         | Accouncement |
