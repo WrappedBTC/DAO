@@ -22,7 +22,7 @@ Bitgo [`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/addres
 |3| Prycto|		      [`0xbec897d7e4969c59993bfe9ad7b4c571a29aa381`](https://etherscan.io/address/0xbec897d7e4969c59993bfe9ad7b4c571a29aa381)|[link](https://twitter.com/PryctoHQ/status/1083413661203525632)|
 |4| Ethfinex		   |         [`0xe1f3c653248de6894d683cb2f10de7ca2253046f`](https://etherscan.io/address/0xe1f3c653248de6894d683cb2f10de7ca2253046f)||
 |5| GOPAX		   |         [`0x6707a6763c6dc64de7c4048a27b6303292f88f50`](https://etherscan.io/address/0x6707a6763c6dc64de7c4048a27b6303292f88f50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
-|6| Airswap		   |         [`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)||
+|6| Airswap		   |         [`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
 |7| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)||
 |8| Set protocol		   |         [`0xf4b583293339425CF94203e186D097589Af5a611`](https://etherscan.io/address/0xf4b583293339425CF94203e186D097589Af5a611)|[link](https://twitter.com/SetProtocol/status/1085706472166645765)|
 
@@ -31,7 +31,7 @@ Bitgo [`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/addres
 ## DAO Members
 |   |      |         | Accouncement |
 |---|------|---------|-------------|
-|1|Airswap|[`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)| |
+|1|Airswap|[`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
 |2| Compound|		          [`0x185ADb71ae202DFAbb4146272186457E4e170523`](https://etherscan.io/address/0x185ADb71ae202DFAbb4146272186457E4e170523)|[link](https://twitter.com/compoundfinance/status/1083401878178652161) |
 |3| DDEX / Hydro|		      [`0xf848405353889D352BD20Db95C86d75EF2E75022`](https://etherscan.io/address/0xf848405353889D352BD20Db95C86d75EF2E75022)||
 |4| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)||
@@ -45,7 +45,7 @@ Bitgo [`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/addres
 |12| GOPAX		        |    [`0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`](https://etherscan.io/address/0x6707A6763c6Dc64DE7C4048A27b6303292F88F50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 |13| Loopring Protocol |	[`0xd8056194369F71A98b82799132F71f34084F7660`](https://etherscan.io/address/0xd8056194369F71A98b82799132F71f34084F7660)|[link](https://twitter.com/loopringorg/status/1083546925482291202)|
 |14| Kyber Network 	   | [`0xFDF28Bf25779ED4cA74e958d54653260af604C20`](https://etherscan.io/address/0xFDF28Bf25779ED4cA74e958d54653260af604C20)|[link](https://tinyurl.com/ybk98cmf)|
-|15| Bitgo 		         | [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/address/0x87d604ea0419815204361bf3025d016448ffd95d)||
+|15| Bitgo 		         | [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/address/0x87d604ea0419815204361bf3025d016448ffd95d)|[link](https://twitter.com/BitGo/status/1088519664974450688)|
 |16| Republic Protocol |	[`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`](https://etherscan.io/address/0xC038C8850F73C4A8453DBF7C59447B397978d7Ea)|[link](https://twitter.com/republicorg/status/1084842157196873728)|
 
 
