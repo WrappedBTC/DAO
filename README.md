@@ -29,6 +29,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 |8| Set protocol		   |         [`0xf4b583293339425CF94203e186D097589Af5a611`](https://etherscan.io/address/0xf4b583293339425CF94203e186D097589Af5a611)|[link](https://twitter.com/SetProtocol/status/1085706472166645765)|
 
 
+A guide on how merchant burn and mint WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md)
 
 ## DAO Members
 |   |      |         | Accouncement |
