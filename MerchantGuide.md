@@ -2,11 +2,11 @@
 This manual assumes basic knowledge with Ethereum blockchain and in particular knowledge with how to make a contract call for an Ethereum smart contract.
 
 ## Initial setup
-Before starting the merchant should be aware of two important smart contract addresses, namely the *WBTC token* and the *Factory* contracts.
-These addresses are available [here](https://github.com/WrappedBTC/DAO#wbtc-important-addresses).
-All the function calls we describe in this guide are done to the factory smart contract.
+Before starting to interact with the WBTC system, the merchant should be aware of two important smart contract addresses, namely the *WBTC token* and the *Factory* contracts.
+These addresses can be found [here](https://github.com/WrappedBTC/DAO#wbtc-important-addresses).
+All the function call we describe in this guide are done to the factory smart contract.
 
-The first step a merchant should do after he was listed as a merchant by the dao is to setup his BTC deposit address.
+The first step a merchant should do after he was listed by the dao is to setup his BTC deposit address.
 When the merchant will burn WBTC the custodian will send him BTC to this deposit address.
 The merchant setup this address by calling
 ```
@@ -31,7 +31,7 @@ It should be noted that this address is unique per merchant and merchant should 
 
 ### Sending BTC
 Custodian take fees over the mint operation. The exact fee percentage is determined by an off-chain agreement with the custodian.
-The amount of WBTC that are expected to be mint after sending `X` BTC to the custodian deposit address is
+The amount of WBTC that are expected to be minted after sending `X` BTC to the custodian deposit address is
 ```
 (X * (100 - fee))/100
 ```

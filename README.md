@@ -25,10 +25,11 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 |4| Ethfinex		   |         [`0xe1f3c653248de6894d683cb2f10de7ca2253046f`](https://etherscan.io/address/0xe1f3c653248de6894d683cb2f10de7ca2253046f)||
 |5| GOPAX		   |         [`0x6707a6763c6dc64de7c4048a27b6303292f88f50`](https://etherscan.io/address/0x6707a6763c6dc64de7c4048a27b6303292f88f50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 |6| Airswap		   |         [`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
-|7| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)||
+|7| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)|[link](https://twitter.com/dharmaprotocol/status/1088916282773131264?s=21)|
 |8| Set protocol		   |         [`0xf4b583293339425CF94203e186D097589Af5a611`](https://etherscan.io/address/0xf4b583293339425CF94203e186D097589Af5a611)|[link](https://twitter.com/SetProtocol/status/1085706472166645765)|
 
 
+A guide on how merchant burn and mint WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
 
 ## DAO Members
 |   |      |         | Accouncement |
@@ -36,7 +37,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 |1|Airswap|[`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
 |2| Compound|		          [`0x185ADb71ae202DFAbb4146272186457E4e170523`](https://etherscan.io/address/0x185ADb71ae202DFAbb4146272186457E4e170523)|[link](https://twitter.com/compoundfinance/status/1083401878178652161) |
 |3| DDEX / Hydro|		      [`0xf848405353889D352BD20Db95C86d75EF2E75022`](https://etherscan.io/address/0xf848405353889D352BD20Db95C86d75EF2E75022)||
-|4| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)||
+|4| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)|[link](https://twitter.com/dharmaprotocol/status/1088916282773131264?s=21)|
 |5| Gnosis		    |        [`0x851b7f3ab81bd8df354f0d7640efcd7288553419`](https://etherscan.io/address/0x851b7f3ab81bd8df354f0d7640efcd7288553419)|[link](https://twitter.com/gnosisPM/status/1087976376521629697)|
 |6| MakerDAO		   |       [`0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e`](https://etherscan.io/address/0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e)||
 |7| theocean		    |      [`0x02e6f32bf32948ccfc0ff30858ef6c02c9b6f507`](https://etherscan.io/address/0x02e6f32bf32948ccfc0ff30858ef6c02c9b6f507)||
