@@ -1,6 +1,6 @@
 # DAO Member Guide for Verifying the deployment of WBTC contracts
 The WBTC DAO code was audited by 3 independent audit firms, namely:
-1. Chain Security [audit report](https://github.com/ChainSecurity/audits/raw/master/ChainSecurity_WBTC.pdf).
+1. Chain Security [audit report](https://github.com/ChainSecurity/audits/raw/master/ChainSecurity_WBTC.pdf)
 2. Solidified [audit report](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20WBTC%20%5B11-19-2018%5D.pdf)
 3. Coinspect [audit report](https://github.com/coinspect/publications/blob/master/WBTC2018v1113.pdf)
 
