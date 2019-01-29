@@ -22,7 +22,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 |1| Kyber Network|[`0xFDF28Bf25779ED4cA74e958d54653260af604C20`](https://etherscan.io/address/0xFDF28Bf25779ED4cA74e958d54653260af604C20)|[link](https://tinyurl.com/ybk98cmf) |
 |2| Republic Protocol|		          [`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`](https://etherscan.io/address/0xC038C8850F73C4A8453DBF7C59447B397978d7Ea)|[link](https://twitter.com/republicorg/status/1084842157196873728) |
 |3| Prycto|		      [`0xbec897d7e4969c59993bfe9ad7b4c571a29aa381`](https://etherscan.io/address/0xbec897d7e4969c59993bfe9ad7b4c571a29aa381)|[link](https://twitter.com/PryctoHQ/status/1083413661203525632)|
-|4| Ethfinex		   |         [`0xe1f3c653248de6894d683cb2f10de7ca2253046f`](https://etherscan.io/address/0xe1f3c653248de6894d683cb2f10de7ca2253046f)||
+|4| Ethfinex		   |         [`0xe1f3c653248de6894d683cb2f10de7ca2253046f`](https://etherscan.io/address/0xe1f3c653248de6894d683cb2f10de7ca2253046f)|[link](https://twitter.com/ethfinex/status/1090301530983538693)|
 |5| GOPAX		   |         [`0x6707a6763c6dc64de7c4048a27b6303292f88f50`](https://etherscan.io/address/0x6707a6763c6dc64de7c4048a27b6303292f88f50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 |6| Airswap		   |         [`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
 |7| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)|[link](https://twitter.com/dharmaprotocol/status/1088916282773131264?s=21)|
