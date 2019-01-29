@@ -12,12 +12,12 @@ factory [`0xe5a5f138005e19a3e6d0fe68b039397eeef2322b`](https://etherscan.io/addr
 members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5)
 
 ## Custodian
-|||Accouncement|
+|||Announcement|
 |---|------|---------|
 |Bitgo   |[`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/address/0xb0f42d187145911c2ad1755831aded125619bd27)      | [link](https://twitter.com/BitGo/status/1088519664974450688) |
 
 ## Merchants
-|   |      |         | Accouncement |
+|   |      |         | Announcement |
 |---|------|---------|-------------|
 |1| Kyber Network|[`0xFDF28Bf25779ED4cA74e958d54653260af604C20`](https://etherscan.io/address/0xFDF28Bf25779ED4cA74e958d54653260af604C20)|[link](https://tinyurl.com/ybk98cmf) |
 |2| Republic Protocol|		          [`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`](https://etherscan.io/address/0xC038C8850F73C4A8453DBF7C59447B397978d7Ea)|[link](https://twitter.com/republicorg/status/1084842157196873728) |
@@ -32,7 +32,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 A guide on how merchant burn and mint WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
 
 ## DAO Members
-|   |      |         | Accouncement |
+|   |      |         | Announcement |
 |---|------|---------|-------------|
 |1|Airswap|[`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
 |2| Compound|		          [`0x185ADb71ae202DFAbb4146272186457E4e170523`](https://etherscan.io/address/0x185ADb71ae202DFAbb4146272186457E4e170523)|[link](https://twitter.com/compoundfinance/status/1083401878178652161) |
@@ -51,8 +51,9 @@ A guide on how merchant burn and mint WBTC can be found [here](https://github.co
 |15| Bitgo 		         | [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/address/0x87d604ea0419815204361bf3025d016448ffd95d)|[link](https://twitter.com/BitGo/status/1088519664974450688)|
 |16| Republic Protocol |	[`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`](https://etherscan.io/address/0xC038C8850F73C4A8453DBF7C59447B397978d7Ea)|[link](https://twitter.com/republicorg/status/1084842157196873728)|
 
+## Auditing the WBTC system
 
-
+A guide on how to verify the WBTC code and configurations can be found [here](https://github.com/WrappedBTC/DAO/blob/master/DeploymentVerification.md)
 
 
 
