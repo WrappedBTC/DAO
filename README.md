@@ -26,7 +26,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 |5| GOPAX		   |         [`0x6707a6763c6dc64de7c4048a27b6303292f88f50`](https://etherscan.io/address/0x6707a6763c6dc64de7c4048a27b6303292f88f50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 |6| Airswap		   |         [`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
 |7| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)|[link](https://twitter.com/dharmaprotocol/status/1088916282773131264?s=21)|
-|8| Set protocol		   |         [`0x1520dd2ccb0c150e5716f57a77c703d95427acbc`](https://etherscan.io/address/0x1520dd2ccb0c150e5716f57a77c703d95427acbc)||
+|8| Set protocol		   |         [`0x1520dd2ccb0c150e5716f57a77c703d95427acbc`](https://etherscan.io/address/0x1520dd2ccb0c150e5716f57a77c703d95427acbc)|[link](https://twitter.com/SetProtocol/status/1089290114176413696)|
 
 
 A guide on how merchant burn and mint WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
