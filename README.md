@@ -39,7 +39,7 @@ A guide on how merchant burn and mint WBTC can be found [here](https://github.co
 |3| DDEX / Hydro|		      [`0xf848405353889D352BD20Db95C86d75EF2E75022`](https://etherscan.io/address/0xf848405353889D352BD20Db95C86d75EF2E75022)||
 |4| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)|[link](https://twitter.com/dharmaprotocol/status/1088916282773131264?s=21)|
 |5| Gnosis		    |        [`0x851b7f3ab81bd8df354f0d7640efcd7288553419`](https://etherscan.io/address/0x851b7f3ab81bd8df354f0d7640efcd7288553419)|[link](https://twitter.com/gnosisPM/status/1087976376521629697)|
-|6| MakerDAO		   |       [`0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e`](https://etherscan.io/address/0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e)||
+|6| MakerDAO		   |       [`0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e`](https://etherscan.io/address/0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e)|[link](https://twitter.com/MakerDAO/status/1090404818445684736)|
 |7| theocean		    |      [`0x02e6f32bf32948ccfc0ff30858ef6c02c9b6f507`](https://etherscan.io/address/0x02e6f32bf32948ccfc0ff30858ef6c02c9b6f507)||
 |8| Prycto		       |     [`0x5aA0C20df887B11520E141E0cAC9F56f207bf9B0`](https://etherscan.io/address/0x5aA0C20df887B11520E141E0cAC9F56f207bf9B0)|[link](https://twitter.com/PryctoHQ/status/1083413661203525632)|
 |9| Set Protocol		  |    [`0xf4b583293339425CF94203e186D097589Af5a611`](https://etherscan.io/address/0xf4b583293339425CF94203e186D097589Af5a611)|[link](https://twitter.com/SetProtocol/status/1085706472166645765)|
