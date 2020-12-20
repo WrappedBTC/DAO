@@ -80,3 +80,5 @@ Done by calling
 where the amount is in Satoshi.
 
 When calling this function the merchant WBTC will be burned, and the custodian will later send equivalent amount of BTC (minus applicable fees) to the merchant BTC deposit address (that was set in the initial setup).
+
+***DO NOT call `burn` in WBTC token contract, you will lose your wbtc forever***
