@@ -20,17 +20,34 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 |Bitgo   |[`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/address/0xb0f42d187145911c2ad1755831aded125619bd27)      | [link](https://twitter.com/BitGo/status/1088519664974450688) |
 
 ## Merchants
-|   |      |         | Announcement |
-|---|------|---------|-------------|
-|1| Kyber Network|[`0xFDF28Bf25779ED4cA74e958d54653260af604C20`](https://etherscan.io/address/0xFDF28Bf25779ED4cA74e958d54653260af604C20)|[link](https://tinyurl.com/ybk98cmf) |
-|2| Republic Protocol|		          [`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`](https://etherscan.io/address/0xC038C8850F73C4A8453DBF7C59447B397978d7Ea)|[link](https://twitter.com/republicorg/status/1084842157196873728) |
-|3| Prycto|		      [`0xbec897d7e4969c59993bfe9ad7b4c571a29aa381`](https://etherscan.io/address/0xbec897d7e4969c59993bfe9ad7b4c571a29aa381)|[link](https://twitter.com/PryctoHQ/status/1083413661203525632)|
-|4| Ethfinex		   |         [`0xe1f3c653248de6894d683cb2f10de7ca2253046f`](https://etherscan.io/address/0xe1f3c653248de6894d683cb2f10de7ca2253046f)|[link](https://twitter.com/ethfinex/status/1090301530983538693)|
-|5| GOPAX		   |         [`0x6707a6763c6dc64de7c4048a27b6303292f88f50`](https://etherscan.io/address/0x6707a6763c6dc64de7c4048a27b6303292f88f50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
-|6| Airswap		   |         [`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
-|7| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)|[link](https://twitter.com/dharmaprotocol/status/1088916282773131264?s=21)|
-|8| Set protocol		   |         [`0x1520dd2ccb0c150e5716f57a77c703d95427acbc`](https://etherscan.io/address/0x1520dd2ccb0c150e5716f57a77c703d95427acbc)|[link](https://twitter.com/SetProtocol/status/1089290114176413696)|
+| No | Merchant address                           | Note                               |
+|----|--------------------------------------------|------------------------------------|
+| 1  | 0x65b0bf8ee4947edd2a500d74e50a3d757dc79de0 | Nexo                               |
+| 2  | 0xfdf28bf25779ed4ca74e958d54653260af604c20 | Kyber                              |
+| 3  | 0xbec897d7e4969c59993bfe9ad7b4c571a29aa381 | Prycto                             |
+| 4  | 0xe1F3C653248De6894d683cB2f10DE7CA2253046f | Ethfinex                           |
+| 5  | 0x6707a6763c6dc64de7c4048a27b6303292f88f50 | Gopax                              |
+| 6  | 0x9DA79c0b2406617Dd538BAAaBE93d3D633ea20dc | Cobo                               |
+| 7  | 0x2081eA54366FFCb145Cc1feE30F36aA33A72E778 | Ember group                        |
+| 8  | 0x9bA1014bD2E50f4Fb601Ca178416e76ACa8d2810 | Grapefruid Trading - remove soon   |
+| 9  | 0xB9062896ec3A615a4e4444DF183F0531a77218AE | Aave                               |
+| 10 | 0x22aae22461d2c1da78b67ce25b5399e7c8069246 | Cumberland                         |
+| 11 | 0x03dC1CCc9559Fb309b56275BE427EBCff0d1766f | Swipe                              |
+| 12 | 0x14C436e9a41A3e8CD365621FAB43B57bba7A39C8 | Symbolic Capital Partners, Ltd.    |
+| 13 | 0x658545e34E392FE07177e1794504838B49eD261D | MakerDAO                           |
+| 14 | 0xa726c00CDa1f60AaaB19BC095D02A46556837f31 | Alameda Research - remove soon     |
+| 15 | 0xA2b1A32CC725d32936E0E81f79F0D41C44cc5cFA | Three Arrows Capital - remove soon |
+| 16 | 0x808E4981f6287B13711b78DE9d7C169E5D180643 | Imtoken                            |
+| 17 | 0x572F17EcfFf768F9C31881F66BD97B18a651fc20 | QCP                                |
+| 18 | 0xbc93e897c455b8ef76d981093239775bdd49e5bf | Coinlist                           |
+| 19 | 0xB43D7a63391BC768D5981b0D91152eb76DEE9a6A | FalconX - remove soon              |
+| 20 | 0xcBD12525cDD4Cd76455859eA3da141c412E54F96 | Grapefruit Trading                 |
+| 21 | 0x18c5fb0518C81510E80d4D350bc3a8778C548d6a | Wintermute                         |
+| 22 | 0x58FCE38e6C5FB4FB11dC00ceBA76B78C759c3A41 | FalconX                            |
+| 23 | 0x9f4d184860315809b0b14A4868149f3Ce2CbdA4f | Crypto.com                         |
+| 24 | 0x1619d743d7DC612E99d5D94Ebd6b9695D46f0BF3 | BTSE                               |
 
+This merchant list is not updated in real time manner. If you need to check real time merchant list, please read function `getMerchants` of [member contract](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5#readContract#F6).
 
 A guide on how merchant burn and mint WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
 
