@@ -1,5 +1,8 @@
 # WBTC DAO 
-Multisig wallet: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)
+Multisig wallet: [`0xB33f8879d4608711cEBb623F293F8Da13B8A37c5`](https://etherscan.io/address/0xB33f8879d4608711cEBb623F293F8Da13B8A37c5)
+
+~Old multisig wallet: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)~ (Deprecated)
+
 
 ## WBTC important addresses
 WBTC token [`0x2260fac5e5542a773aa44fbcfedf7c193bc2c599`](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)
@@ -34,22 +37,19 @@ A guide on how merchant burn and mint WBTC can be found [here](https://github.co
 ## DAO Members
 |   |      |         | Announcement |
 |---|------|---------|-------------|
-|1|Airswap|[`0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea`](https://etherscan.io/address/0xFAF0708D1aEd2566205D61f471d7e4Aeb10910Ea)|[link](https://twitter.com/airswap/status/1088798802360913920)|
-|2| Compound|		          [`0x185ADb71ae202DFAbb4146272186457E4e170523`](https://etherscan.io/address/0x185ADb71ae202DFAbb4146272186457E4e170523)|[link](https://twitter.com/compoundfinance/status/1083401878178652161) |
-|3| DDEX / Hydro|		      [`0xf848405353889D352BD20Db95C86d75EF2E75022`](https://etherscan.io/address/0xf848405353889D352BD20Db95C86d75EF2E75022)||
-|4| Dharma		   |         [`0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392`](https://etherscan.io/address/0xf7C630eE2dFEBe834A0473d4D98ddaD2c514a392)|[link](https://twitter.com/dharmaprotocol/status/1088916282773131264?s=21)|
-|5| Gnosis		    |        [`0x851b7f3ab81bd8df354f0d7640efcd7288553419`](https://etherscan.io/address/0x851b7f3ab81bd8df354f0d7640efcd7288553419)|[link](https://twitter.com/gnosisPM/status/1087976376521629697)|
-|6| MakerDAO		   |       [`0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e`](https://etherscan.io/address/0xd5d4aB76e8F22a0FdCeF8F483cC794a74A1a928e)|[link](https://twitter.com/MakerDAO/status/1090404818445684736)|
-|7| theocean		    |      [`0x02e6f32bf32948ccfc0ff30858ef6c02c9b6f507`](https://etherscan.io/address/0x02e6f32bf32948ccfc0ff30858ef6c02c9b6f507)||
-|8| Prycto		       |     [`0x5aA0C20df887B11520E141E0cAC9F56f207bf9B0`](https://etherscan.io/address/0x5aA0C20df887B11520E141E0cAC9F56f207bf9B0)|[link](https://twitter.com/PryctoHQ/status/1083413661203525632)|
-|9| Set Protocol		  |    [`0xf4b583293339425CF94203e186D097589Af5a611`](https://etherscan.io/address/0xf4b583293339425CF94203e186D097589Af5a611)|[link](https://twitter.com/SetProtocol/status/1085706472166645765)|
-|10| Blockfolio		    |  [`0x36DEE7493Cb4fDEbbF6FD67BE4D4ec559aa61fe1`](https://etherscan.io/address/0x36DEE7493Cb4fDEbbF6FD67BE4D4ec559aa61fe1)|[link](https://twitter.com/blockfolio/status/1083460773102276608)|
-|11| OmiseGO		      |    [`0x8409DCfCBDb0A78930D87Fb6c06BD8119Bb94bF5`](https://etherscan.io/address/0x8409DCfCBDb0A78930D87Fb6c06BD8119Bb94bF5)|[link](https://twitter.com/omise_go/status/1084678383923953665)|
-|12| GOPAX		        |    [`0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`](https://etherscan.io/address/0x6707A6763c6Dc64DE7C4048A27b6303292F88F50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
-|13| Loopring Protocol |	[`0xd8056194369F71A98b82799132F71f34084F7660`](https://etherscan.io/address/0xd8056194369F71A98b82799132F71f34084F7660)|[link](https://twitter.com/loopringorg/status/1083546925482291202)|
-|14| Kyber Network 	   | [`0xFDF28Bf25779ED4cA74e958d54653260af604C20`](https://etherscan.io/address/0xFDF28Bf25779ED4cA74e958d54653260af604C20)|[link](https://tinyurl.com/ybk98cmf)|
-|15| Bitgo 		         | [`0x87d604ea0419815204361bf3025d016448ffd95d`](https://etherscan.io/address/0x87d604ea0419815204361bf3025d016448ffd95d)|[link](https://twitter.com/BitGo/status/1088519664974450688)|
-|16| Republic Protocol |	[`0xC038C8850F73C4A8453DBF7C59447B397978d7Ea`](https://etherscan.io/address/0xC038C8850F73C4A8453DBF7C59447B397978d7Ea)|[link](https://twitter.com/republicorg/status/1084842157196873728)|
+|1|  Kyber|[`0x8180a5CA4E3B94045e05A9313777955f7518D757`](https://etherscan.io/address/0x8180a5CA4E3B94045e05A9313777955f7518D757)|[link](https://twitter.com/KyberNetwork/status/1439063988390612994)|
+|2|  Chainlink|[`0x65CE9DC44591d3B35c6c47b0a42bAeB7191A9d11`](https://etherscan.io/address/0x65CE9DC44591d3B35c6c47b0a42bAeB7191A9d11)|[link](https://twitter.com/chainlink/status/1535035763321995264)|
+|3|  Compound|[`0x8B8592E9570E96166336603a1b4bd1E8Db20fa20`](https://etherscan.io/address/0x8B8592E9570E96166336603a1b4bd1E8Db20fa20)|[link](https://twitter.com/compoundfinance/status/1561861362166505472)|
+|4|  Balancer|[`0x512fce9B07Ce64590849115EE6B32fd40eC0f5F3`](https://etherscan.io/address/0x512fce9B07Ce64590849115EE6B32fd40eC0f5F3)|[link](https://twitter.com/balancer/status/1535172352614572032)|
+|5|  Multichain|[`0xa80F73b93526ef992B52E3998bb103a0a8f2359d`](https://etherscan.io/address/0xa80F73b93526ef992B52E3998bb103a0a8f2359d)|[link](https://twitter.com/MultichainOrg/status/1541307609151467521)|
+|6|  BitGo|[`0x157b1e5ba2302308461f64a8606f2d5970df129e`](https://etherscan.io/address/0x157b1e5ba2302308461f64a8606f2d5970df129e)|[link](https://twitter.com/BitGo/status/1524069347357954048)|
+|7|  B.Protocol/RiskDAO|[`0xe27B57A99e5CAc0E0f16eE0d5D768126B05422A8`](https://etherscan.io/address/0xe27B57A99e5CAc0E0f16eE0d5D768126B05422A8)|[link](https://twitter.com/Risk_DAO/status/1580277842356883457)|
+|8|  Krystal|[`0xE71B29B60f60b8fc6dCeC56A16107fc1B919e530`](https://etherscan.io/address/0xE71B29B60f60b8fc6dCeC56A16107fc1B919e530)|[link](https://twitter.com/KrystalDefi/status/1540343634645512197)|
+|9|  Loopring|[`0x4CBbD41a2c057cAb8db00AC60f1AB52F36870185`](https://etherscan.io/address/0x4CBbD41a2c057cAb8db00AC60f1AB52F36870185)|[link](https://twitter.com/loopringorg/status/1439069579662159883?s=20)|
+|10| Ren|[`0xF54cf21835A12c825adbE2cFfF87a08C5aa1D430`](https://etherscan.io/address/0xF54cf21835A12c825adbE2cFfF87a08C5aa1D430)|[link](https://twitter.com/renprotocol/status/1580957330597851136)|
+|11| Tom Bean|[`0xcBf19D8F01146e3Ec89Aed604485FAbEfA66B268`](https://etherscan.io/address/0xcBf19D8F01146e3Ec89Aed604485FAbEfA66B268)|[link](https://twitter.com/tcbean/status/1527665509726052356)|
+|12| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
+|13| Gopax|[`0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`](https://etherscan.io/address/0x6707A6763c6Dc64DE7C4048A27b6303292F88F50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 
 ## Auditing the WBTC system
 
