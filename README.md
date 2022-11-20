@@ -29,7 +29,7 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 | 5  | 0x6707a6763c6dc64de7c4048a27b6303292f88f50 | Gopax                              |
 | 6  | 0x9DA79c0b2406617Dd538BAAaBE93d3D633ea20dc | Cobo                               |
 | 7  | 0x2081eA54366FFCb145Cc1feE30F36aA33A72E778 | Ember group                        |
-| 8  | 0x9bA1014bD2E50f4Fb601Ca178416e76ACa8d2810 | Grapefruid Trading - remove soon   |
+| 8  | 0x9bA1014bD2E50f4Fb601Ca178416e76ACa8d2810 | Grapefruit Trading - remove soon   |
 | 9  | 0xB9062896ec3A615a4e4444DF183F0531a77218AE | Aave                               |
 | 10 | 0x22aae22461d2c1da78b67ce25b5399e7c8069246 | Cumberland                         |
 | 11 | 0x03dC1CCc9559Fb309b56275BE427EBCff0d1766f | Swipe                              |
@@ -47,9 +47,9 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 | 23 | 0x9f4d184860315809b0b14A4868149f3Ce2CbdA4f | Crypto.com                         |
 | 24 | 0x1619d743d7DC612E99d5D94Ebd6b9695D46f0BF3 | BTSE                               |
 
-This merchant list is not updated in real time manner. If you need to check real time merchant list, please read function `getMerchants` of [member contract](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5#readContract#F6).
+This merchant list is not updated in real time. To check active merchants, use the `getMerchants` function in the [Members contract](https://etherscan.io/address/0x3e8640574aa764763291ed733672d3a105107ac5#readContract#F6).
 
-A guide on how merchant burn and mint WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
+The merchants' guide for how to mint and burn WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
 
 ## DAO Members
 |   |      |         | Announcement |
