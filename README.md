@@ -60,7 +60,7 @@ The merchants' guide for how to mint and burn WBTC can be found [here](https://g
 |4|  Balancer|[`0x512fce9B07Ce64590849115EE6B32fd40eC0f5F3`](https://etherscan.io/address/0x512fce9B07Ce64590849115EE6B32fd40eC0f5F3)|[link](https://twitter.com/balancer/status/1535172352614572032)|
 |5|  Multichain|[`0xa80F73b93526ef992B52E3998bb103a0a8f2359d`](https://etherscan.io/address/0xa80F73b93526ef992B52E3998bb103a0a8f2359d)|[link](https://twitter.com/MultichainOrg/status/1541307609151467521)|
 |6|  BitGo|[`0x157b1e5ba2302308461f64a8606f2d5970df129e`](https://etherscan.io/address/0x157b1e5ba2302308461f64a8606f2d5970df129e)|[link](https://twitter.com/BitGo/status/1524069347357954048)|
-|7|  B.Protocol/RiskDAO|[`0xe27B57A99e5CAc0E0f16eE0d5D768126B05422A8`](https://etherscan.io/address/0xe27B57A99e5CAc0E0f16eE0d5D768126B05422A8)|[link](https://twitter.com/Risk_DAO/status/1580277842356883457)|
+|7|  RiskDAO|[`0xe27B57A99e5CAc0E0f16eE0d5D768126B05422A8`](https://etherscan.io/address/0xe27B57A99e5CAc0E0f16eE0d5D768126B05422A8)|[link](https://twitter.com/Risk_DAO/status/1580277842356883457)|
 |8|  Krystal|[`0xE71B29B60f60b8fc6dCeC56A16107fc1B919e530`](https://etherscan.io/address/0xE71B29B60f60b8fc6dCeC56A16107fc1B919e530)|[link](https://twitter.com/KrystalDefi/status/1540343634645512197)|
 |9|  Loopring|[`0x4CBbD41a2c057cAb8db00AC60f1AB52F36870185`](https://etherscan.io/address/0x4CBbD41a2c057cAb8db00AC60f1AB52F36870185)|[link](https://twitter.com/loopringorg/status/1439069579662159883?s=20)|
 |10| Ren|[`0xF54cf21835A12c825adbE2cFfF87a08C5aa1D430`](https://etherscan.io/address/0xF54cf21835A12c825adbE2cFfF87a08C5aa1D430)|[link](https://twitter.com/renprotocol/status/1580957330597851136)|
