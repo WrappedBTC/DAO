@@ -28,12 +28,12 @@ members [`0x3e8640574aa764763291ed733672d3a105107ac5`](https://etherscan.io/addr
 | 4  | 0xe1F3C653248De6894d683cB2f10DE7CA2253046f | Ethfinex                           |
 | 5  | 0x6707a6763c6dc64de7c4048a27b6303292f88f50 | Gopax                              |
 | 6  | 0x9DA79c0b2406617Dd538BAAaBE93d3D633ea20dc | Cobo                               |
-| 7  | 0x2081eA54366FFCb145Cc1feE30F36aA33A72E778 | Ember group                        |
+| 7  | 0x2081eA54366FFCb145Cc1feE30F36aA33A72E778 | Amber group                        |
 | 8  | 0x9bA1014bD2E50f4Fb601Ca178416e76ACa8d2810 | Grapefruit Trading - remove soon   |
 | 9  | 0xB9062896ec3A615a4e4444DF183F0531a77218AE | Aave                               |
 | 10 | 0x22aae22461d2c1da78b67ce25b5399e7c8069246 | Cumberland                         |
 | 11 | 0x03dC1CCc9559Fb309b56275BE427EBCff0d1766f | Swipe                              |
-| 12 | 0x14C436e9a41A3e8CD365621FAB43B57bba7A39C8 | Symbolic Capital Partners, Ltd.    |
+| 12 | 0x14C436e9a41A3e8CD365621FAB43B57bba7A39C8 | Symbolic Capital Partners          |
 | 13 | 0x658545e34E392FE07177e1794504838B49eD261D | MakerDAO                           |
 | 14 | 0xa726c00CDa1f60AaaB19BC095D02A46556837f31 | Alameda Research - remove soon     |
 | 15 | 0xA2b1A32CC725d32936E0E81f79F0D41C44cc5cFA | Three Arrows Capital - remove soon |
