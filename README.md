@@ -3,9 +3,7 @@ Multisig wallet: [`0xB33f8879d4608711cEBb623F293F8Da13B8A37c5`](https://ethersca
 
 Execution multisig wallet: [`0xA1F7bB557c1fe6Ded1EE6b1775E5B2d2f7598ae4`](https://app.safe.global/home?safe=eth:0xA1F7bB557c1fe6Ded1EE6b1775E5B2d2f7598ae4)
 
-
 ~Old multisig wallet: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)~ (Deprecated)
-
 
 ## WBTC important addresses
 WBTC token [`0x2260fac5e5542a773aa44fbcfedf7c193bc2c599`](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)
@@ -72,5 +70,4 @@ The merchants' guide for how to mint and burn WBTC can be found [here](https://g
 |13| Gopax|[`0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`](https://etherscan.io/address/0x6707A6763c6Dc64DE7C4048A27b6303292F88F50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 
 ## Auditing the WBTC system
-
 A guide on how to verify the WBTC code and configurations can be found [here](https://github.com/WrappedBTC/DAO/blob/master/DeploymentVerification.md)
