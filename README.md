@@ -1,7 +1,8 @@
 # WBTC DAO 
-Multisig wallet: [`0xB33f8879d4608711cEBb623F293F8Da13B8A37c5`](https://etherscan.io/address/0xB33f8879d4608711cEBb623F293F8Da13B8A37c5)
+Multisig wallet: [`0x5D3e580732396aC506E4B406cE5E62192A6501af`](https://app.safe.global/home?safe=eth:0x5D3e580732396aC506E4B406cE5E62192A6501af)
 
-~Old multisig wallet: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)~ (Deprecated)
+~Old multisig wallet 1: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)~ (Deprecated)
+~Old multisig wallet 2: [`0xB33f8879d4608711cEBb623F293F8Da13B8A37c5`](https://etherscan.io/address/0xB33f8879d4608711cEBb623F293F8Da13B8A37c5)~ (Deprecated)
 
 
 ## WBTC important addresses
