@@ -2,6 +2,7 @@
 Multisig wallet: [`0x5D3e580732396aC506E4B406cE5E62192A6501af`](https://app.safe.global/home?safe=eth:0x5D3e580732396aC506E4B406cE5E62192A6501af)
 
 ~Old multisig wallet 1: [`0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68`](https://etherscan.io/address/0xd409db68d0e6e97e1cb1f3eb0bd38de278bc3c68)~ (Deprecated)
+
 ~Old multisig wallet 2: [`0xB33f8879d4608711cEBb623F293F8Da13B8A37c5`](https://etherscan.io/address/0xB33f8879d4608711cEBb623F293F8Da13B8A37c5)~ (Deprecated)
 
 
@@ -67,11 +68,11 @@ The merchants' guide for how to mint and burn WBTC can be found [here](https://g
 |7|  Krystal|[`0xE71B29B60f60b8fc6dCeC56A16107fc1B919e530`](https://etherscan.io/address/0xE71B29B60f60b8fc6dCeC56A16107fc1B919e530)|[link](https://twitter.com/KrystalDefi/status/1540343634645512197)|
 |8| Tom Bean|[`0xcBf19D8F01146e3Ec89Aed604485FAbEfA66B268`](https://etherscan.io/address/0xcBf19D8F01146e3Ec89Aed604485FAbEfA66B268)|[link](https://twitter.com/tcbean/status/1527665509726052356)|
 |9| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
-|10| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
-|11| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
-|12| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
-|13| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
-|14| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
+|10|  BTTC|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x41917727c900533f0deEE515aF147746b3f42bBa)|[link](https://twitter.com/bttcdao/status/1729509701442740621)|
+|11|  C<sup>2</sup> Ventures|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0xf50c791a91AC9e07c5FE953B165cD3406499Dccba)|[link](https://twitter.com/CsquaredVC/status/1729412469142192415)|
+|12|  stWBTC|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0xd3955B4f802d324C94AA9feFD7b283a9BdF3d67e)|[link](https://twitter.com/stwbtc_io/status/1729487304186867841)|
+|13|  EPI Labs|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x1C95F5e190bEa454b968Cff4663e55AAEbb6eE86)|[link](https://twitter.com/EPILabTech/status/1729458867216773415)|
+|14|  Nest Wallet|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x588f3eF483fb4A0318989A3B00bD03Bf3d63A804)|[link](https://twitter.com/nestwalletxyz/status/1729412319229407699)|
 
 
 ## Auditing the WBTC system
