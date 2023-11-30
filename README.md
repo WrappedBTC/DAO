@@ -51,8 +51,8 @@ This merchant list is not updated in real time. To check active merchants, use t
 
 The merchants' guide for how to mint and burn WBTC can be found [here](https://github.com/WrappedBTC/DAO/blob/master/MerchantGuide.md).
 
-## DAO Members
-|   |      |         | Announcement |
+## Big DAO Members (Requires 8 of 13 to confirm)
+|   |Project| Address |Announcement|
 |---|------|---------|-------------|
 |1|  Kyber|[`0x8180a5CA4E3B94045e05A9313777955f7518D757`](https://etherscan.io/address/0x8180a5CA4E3B94045e05A9313777955f7518D757)|[link](https://twitter.com/KyberNetwork/status/1439063988390612994)|
 |2|  Chainlink|[`0x65CE9DC44591d3B35c6c47b0a42bAeB7191A9d11`](https://etherscan.io/address/0x65CE9DC44591d3B35c6c47b0a42bAeB7191A9d11)|[link](https://twitter.com/chainlink/status/1535035763321995264)|
@@ -68,10 +68,17 @@ The merchants' guide for how to mint and burn WBTC can be found [here](https://g
 |12| Badger|[`0x86cbD0ce0c087b482782c181dA8d191De18C8275`](https://etherscan.io/address/0x86cbD0ce0c087b482782c181dA8d191De18C8275)|[link](https://twitter.com/BadgerDAO/status/1541437469736013824)|
 |13| Gopax|[`0x6707A6763c6Dc64DE7C4048A27b6303292F88F50`](https://etherscan.io/address/0x6707A6763c6Dc64DE7C4048A27b6303292F88F50)|[link](https://twitter.com/GOPAX_kr/status/1084773803966644225)|
 
+## Small DAO Members (Requires 5 of 7 to confirm)
+|   |Project|Address|Announcement|
+|---|------|---------|-------------|
+|1|  BitGo 1 (Custodian)|[`0xb0f42d187145911c2ad1755831aded125619bd27`](https://etherscan.io/address/0xb0f42d187145911c2ad1755831aded125619bd27)|[link](https://twitter.com/BitGo/status/1088519664974450688)|
+|2|  BitGo 2|[`0x926314b7c2d36871eaf60afa3d7e8ffc0f4f9a80`](https://etherscan.io/address/0x926314b7c2d36871eaf60afa3d7e8ffc0f4f9a80)|n/a|
+|3|  BitGo 3|[`0x51c44979ea04256f678552be65faf67f808b3ec0`](https://etherscan.io/address/0x51c44979ea04256f678552be65faf67f808b3ec0)|n/a|
+|4|  Kyber|[`0x8180a5CA4E3B94045e05A9313777955f7518D757`](https://etherscan.io/address/0x8180a5CA4E3B94045e05A9313777955f7518D757)|[link](https://twitter.com/KyberNetwork/status/1439063988390612994)|
+|5|  Tom Bean|[`0xddD5105b94A647eEa6776B5A63e37D81eAE3566F`](https://etherscan.io/address/0xddD5105b94A647eEa6776B5A63e37D81eAE3566F)|n/a|
+|6|  Maker|[`0xd5d4ab76e8f22a0fdcef8f483cc794a74a1a928e`](https://etherscan.io/address/0xd5d4ab76e8f22a0fdcef8f483cc794a74a1a928e)|[link](https://twitter.com/MakerDAO/status/1090404818445684736)|
+|7|  Aave|[`0xb9062896ec3a615a4e4444df183f0531a77218ae`](https://etherscan.io/address/0xb9062896ec3a615a4e4444df183f0531a77218ae)|[n/a|
+
 ## Auditing the WBTC system
 
 A guide on how to verify the WBTC code and configurations can be found [here](https://github.com/WrappedBTC/DAO/blob/master/DeploymentVerification.md)
-
-
-
-
